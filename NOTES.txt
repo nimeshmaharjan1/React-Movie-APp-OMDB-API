@@ -1,0 +1,11 @@
+NOTES
+----------------------------------------------
+Why immutability is important
+
+There are generally two approaches to changing data
+
+firstly being:
+    to mutate the data by directly changing the data's values. 
+
+second being:
+    To replace the data with a new copy which has the desired change.
